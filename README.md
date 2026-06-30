@@ -1,3 +1,3 @@
 # CUDA_C++_Programming
 
-## 1. Addition on GPU Test
+## 1. Run Threads on GPU
