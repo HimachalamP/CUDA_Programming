@@ -1,4 +1,4 @@
-### The GOAL is here to run threads on different blocks with unique threadId.
+### The GOAL is to execute parallel threads on the GPU using CUDA kernels.
 
 ### CUDA C++ program tested on Google **colab** platform **T4 GPU**
 
