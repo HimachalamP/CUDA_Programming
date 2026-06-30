@@ -1,3 +1,3 @@
 # CUDA_C++_Programming
-
-## 1. Run Threads on GPU
+### CUDA C++ programs test on Google **colab** platform **T4 GPU**
+## 1. Execute parallel threads on the GPU using CUDA kernels.
